@@ -1,6 +1,3 @@
-1- ovpn dosyasindaki ip'yi silip '@' isareti koy
-2- iki dosyaya da apikey gir
-3- ilk image dosyasindan farkli lokasyonlarda 4 adet droplet yaratir
+# Digital Ocean alternative API
 
-UYARI : destroy fonksiyonunu iki kere cagir.
-
+Creates and destroys droplet snapshot with python.
